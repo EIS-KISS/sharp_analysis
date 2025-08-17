@@ -1,0 +1,21 @@
+{
+	"inputLabel" : "EIS",
+	"inputSize" : 100,
+	"module" : "resnetANY-1.pt/module.pt",
+	"outputBiases" : 
+	[
+		0.031235300004482269
+	],
+	"outputLabels" : 
+	[
+		"cap_estimate"
+	],
+	"outputScalars" : 
+	[
+		0.015618201345205307
+	],
+	"outputSize" : 1,
+	"purpose" : "Regression,Unkown",
+	"softmax" : false,
+	"type" : "N3ann9ScriptNetE"
+}
